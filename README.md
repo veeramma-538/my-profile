@@ -1,6 +1,11 @@
-# my-profile
-# Hi 👋, I'm Ede Durga Rajya Veeramma  
-### A Passionate Full Stack Developer from India  
+<h1 align="center">Hi 👋, I'm Ede Durga Rajya Veeramma</h1>  
+<h3 align="center">A Passionate Full Stack Developer & Computer Science Student from India</h3>  
+
+<p align="center">
+  <a href="https://github.com/veeramma-538">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00C4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+%7C+Python+%7C+C%2B%2B;Frontend+%7C+Backend+%7C+Database;Always+Learning+New+Technologies" alt="Typing SVG">
+  </a>
+</p>
 
 ---
 
@@ -9,6 +14,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/veeramma-538)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:veerammasai22@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ede-durga-rajya-veeramma-838b8b2b5/)  
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1TMs-wZnZ2STcwQnhs274LHAvkoD5nLug/view?usp=drivesdk)  
 
 ---
 
@@ -97,6 +103,22 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=veeramma-538&theme=tokyo-night" alt="GitHub Activity Graph"/>
+</p>
+
+---
+
+## 📌 Pinned Projects  
+
+<p align="center">
+  <a href="https://github.com/veeramma-538/Quiz">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=veeramma-538&repo=Quiz&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/veeramma-538/myportfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=veeramma-538&repo=myportfolio&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/veeramma-538/QR-Code-Generator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=veeramma-538&repo=QR-Code-Generator&theme=tokyonight" />
+  </a>
 </p>
 
 ---
