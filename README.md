@@ -58,14 +58,14 @@
 
 ## 🚀 Projects  
 - [Quiz App](https://github.com/veeramma-538/Quiz.git) — Interactive web quiz built with HTML, CSS, JavaScript  
-  🔗 [Live Demo](https://veeramma-quiz.netlify.app)  
+  🔗 [Live Demo](https://qapp-1.netlify.app/)  
   
 
 - [Portfolio Website](https://github.com/veeramma-538/myportfolio.git) — Personal portfolio with responsive design  
-  🔗 [Live Demo](https://veeramma-portfolio.netlify.app)  
+  🔗 [Live Demo](https://veeru-portfolio-1.netlify.app/)  
 
 - [QR Code Generator](https://github.com/veeramma-538/QR-Code-Generator.git) — Real-time custom QR code generator  
-  🔗 [Live Demo](https://veeramma-qrcode.netlify.app)  
+  🔗 [Live Demo](https://qr-gen-veeru.netlify.app/)  
 
 ---
 
