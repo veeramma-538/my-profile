@@ -57,10 +57,15 @@
 ---
 
 ## 🚀 Projects  
-
 - [Quiz App](https://github.com/veeramma-538/Quiz.git) — Interactive web quiz built with HTML, CSS, JavaScript  
+  🔗 [Live Demo](https://veeramma-quiz.netlify.app)  
+  
+
 - [Portfolio Website](https://github.com/veeramma-538/myportfolio.git) — Personal portfolio with responsive design  
+  🔗 [Live Demo](https://veeramma-portfolio.netlify.app)  
+
 - [QR Code Generator](https://github.com/veeramma-538/QR-Code-Generator.git) — Real-time custom QR code generator  
+  🔗 [Live Demo](https://veeramma-qrcode.netlify.app)  
 
 ---
 
@@ -105,7 +110,11 @@
 </p>
 
 ---
+## 🏅 GitHub Trophies  
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=veeramma-538&theme=tokyonight&row=1&column=6" alt="Trophies"/>
+</p>
 
 ## 👀 Profile Visitors  
 
