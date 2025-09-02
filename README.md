@@ -7,7 +7,6 @@
   </a>
 </p>
 
---
 
 ## 🌐 Connect with me  
 
@@ -32,7 +31,7 @@
 - Enhancing my **Full Stack Development** skills  
 
 ## 🌱 I’m currently learning  
-- **Spring Boot** and **DevOps Tools**  
+- **Spring Boot** and **PHP**  
 
 ## 💬 Ask me about  
 - **Java, Python, C, C++, HTML, CSS, JavaScript, MySQL**  
