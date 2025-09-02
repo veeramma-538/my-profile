@@ -14,7 +14,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/veeramma-538)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:veerammasai22@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ede-durga-rajya-veeramma-838b8b2b5/)  
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1TMs-wZnZ2STcwQnhs274LHAvkoD5nLug/view?usp=drivesdk)  
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://docs.google.com/document/d/1-Hc6iQsuDzVN2DJ7iE7O0_PFEzMAcIIt/edit?usp=drive_link&ouid=116492656196236516611&rtpof=true&sd=true)  
 
 ---
 
