@@ -106,21 +106,6 @@
 
 ---
 
-## 📌 Pinned Projects  
-
-<p align="center">
-  <a href="https://github.com/veeramma-538/Quiz">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=veeramma-538&repo=Quiz&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/veeramma-538/myportfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=veeramma-538&repo=myportfolio&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/veeramma-538/QR-Code-Generator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=veeramma-538&repo=QR-Code-Generator&theme=tokyonight" />
-  </a>
-</p>
-
----
 
 ## 👀 Profile Visitors  
 
